@@ -5,3 +5,5 @@ Il s'agit de plusieurs programmes réalisés au collège (pas tous)
 - Vraie_Faux : un petit jeu de question (7 questions) dans laquel il faut répondre par Vraie ou Faux
 - Entrainement calcul : Un entrainement aux multiplications
 - exercice : centralisation d'environ 10 exercice effectués en club informatique
+- jeu_random : un essaie avec Tiled
+- colormaker : visualiseur de couleurs ajustables.
